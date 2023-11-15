@@ -1,0 +1,15 @@
+{
+  "name": "Eddy#1",
+  "image": "https://raw.githubusercontent.com/ronindokko/aleo-workshop3-assets/main/asset-a/image.jpeg",
+  "attributes": [
+    {
+      "trait_type": "super",
+      "value": "101000"
+    }
+  ],
+  "mintNumber": 1,
+  "collectionLink": "string",
+  "collectionName": "string",
+  "collectionDescription": "string",
+  "sourceLink": "string"
+}
