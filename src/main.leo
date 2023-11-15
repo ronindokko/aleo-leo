@@ -1,5 +1,5 @@
-// The 'token_16930' program.
-program token_16930.aleo {
+// The 'helloworld' program.
+program aleo-leo.aleo {
 
     mapping balance: address => u64;
     
